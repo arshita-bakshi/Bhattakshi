@@ -3,7 +3,7 @@ body
 background-position: center;
 background-size: cover;
 }
-.url {cursor: url(myBall.cur),auto;}
+.url {cursor: cell;}
 .heading
 {
 font-size: 23px;
